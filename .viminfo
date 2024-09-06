@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1725603790,,"wq"
+|2,0,1725604421,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,26 @@
 # Registers:
 
 # File marks:
-'0  16  2  ~/app.js
-|4,48,16,2,1725603790,"~/app.js"
-'1  14  0  ~/package.json
-|4,49,14,0,1725603769,"~/package.json"
+'0  4  46  ~/package.json
+|4,48,4,46,1725604421,"~/package.json"
+'1  16  2  ~/app.js
+|4,49,16,2,1725603790,"~/app.js"
+'2  14  0  ~/package.json
+|4,50,14,0,1725603769,"~/package.json"
+'3  14  0  ~/package.json
+|4,51,14,0,1725603769,"~/package.json"
 
 # Jumplist (newest first):
+-'  4  46  ~/package.json
+|4,39,4,46,1725604421,"~/package.json"
+-'  14  0  ~/package.json
+|4,39,14,0,1725604403,"~/package.json"
 -'  16  2  ~/app.js
 |4,39,16,2,1725603790,"~/app.js"
+-'  16  2  ~/app.js
+|4,39,16,2,1725603790,"~/app.js"
+-'  1  0  ~/app.js
+|4,39,1,0,1725603785,"~/app.js"
 -'  1  0  ~/app.js
 |4,39,1,0,1725603785,"~/app.js"
 -'  14  0  ~/package.json
@@ -43,8 +55,18 @@
 |4,39,1,0,1725603739,"~/package.json"
 -'  1  0  ~/package.json
 |4,39,1,0,1725603739,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1725603739,"~/package.json"
 
 # History of marks within files (newest to oldest):
+
+> ~/package.json
+	*	1725604419	0
+	"	4	46
+	^	4	47
+	.	4	46
+	+	14	0
+	+	4	46
 
 > ~/app.js
 	*	1725603788	0
@@ -52,10 +74,3 @@
 	^	16	3
 	.	16	2
 	+	16	2
-
-> ~/package.json
-	*	1725603767	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
